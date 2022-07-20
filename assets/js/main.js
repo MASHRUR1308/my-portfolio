@@ -1,7 +1,3 @@
-
-
-
-
 /*=============== CHANGE BACKGROUND HEADER ===============*/
 
 const scrollHeader = () =>{
